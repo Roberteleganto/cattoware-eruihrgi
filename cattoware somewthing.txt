@@ -25,7 +25,7 @@ library.theme = {
     background = "rbxassetid://5553946656",
     tilesize = 90,
     cursor = true,
-    cursorimg = "http://www.rw-designer.com/cursor-extern.php?id=175337",
+    cursorimg = "https://www.spriters-resource.com/resources/sheet_icons/155/157836.png",
     backgroundcolor = Color3.fromRGB(20, 20, 20),
     tabstextcolor = Color3.fromRGB(240, 240, 240),
     bordercolor = Color3.fromRGB(60, 60, 60),
